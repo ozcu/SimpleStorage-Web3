@@ -1,4 +1,4 @@
-# SimpleStorage-Web3
+# SimpleStorage-Dapp
 
 A simple Dapp to store a value in simple contract in Ethereum chain.
 
